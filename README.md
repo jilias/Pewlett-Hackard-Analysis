@@ -24,7 +24,6 @@ There are 90,398 that will need to be filled. out of those there are about 7 dif
 ![retiring_count](https://user-images.githubusercontent.com/82242081/124406067-e286eb80-dd05-11eb-8fc0-00728ce1c2e6.png)
 
 SELECT * FROM unique_titles;
-
 --retiring titles count
 SELECT COUNT(title) as "count", title
 INTO retiring_titles
@@ -34,12 +33,6 @@ ORDER BY "count" DESC;
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 Except for managers, the company has enough of the other titles to to mentor the next coming employees. The company will therfore have to determine how they would like to prepare for the new set of managers.
-Assistant Engineer	46
-Engineer	287
-Senior Engineer	415
-Senior Staff	298
-Staff	426
-Technique Leader	77
 ![image](https://user-images.githubusercontent.com/82242081/124406204-490c0980-dd06-11eb-9f13-f132bbcf1691.png)
 
 
