@@ -1,4 +1,3 @@
-![retiring_count](https://user-images.githubusercontent.com/82242081/124406035-d0a54880-dd05-11eb-94f5-60f5b22f19f3.png)
 # Pewlett-Hackard-Analysis
 ## Overview 
 This analysis was to discover how many employees would be retiring in the foreseeably future of Pewlett Hackard and how many positions will be open.
